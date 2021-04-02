@@ -18,3 +18,15 @@ yarn build
 cd ..
 docker-compose up -d
 ```
+
+or for test on dev server:
+
+```
+cd app/api
+flask run
+```
++
+```
+cd app
+yarn start
+```
