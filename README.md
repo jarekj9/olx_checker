@@ -9,6 +9,7 @@ It ignores promoted items and shows progress bar.
 ## How
 
 Front-end is made with React and back-end is Flask.
+Backend performs web scraping in threads and tracks individual tasks progress, serving them to front-end.
 It is ready to be contenerized (docker/gunicorn/nginx) with commands:
 
 ```
