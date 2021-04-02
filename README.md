@@ -21,11 +21,12 @@ docker-compose up -d
 
 or for test on dev server:
 
+back-end:
 ```
 cd app/api
 flask run
 ```
-+
+and front-end:
 ```
 cd app
 yarn start
