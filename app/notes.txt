@@ -1,0 +1,11 @@
+For dev server:
+
+# run react
+yarn start
+
+# run flask backend
+cd api
+flask run
+
+
+http://127.0.0.1
