@@ -18,7 +18,7 @@ yarn build
 cd ..
 docker-compose up -d
 ```
-(http://localhost:8083)
+Container will use port 8083 (http://localhost:8083)
 
 or for test on dev server run both:
 
