@@ -18,8 +18,9 @@ yarn build
 cd ..
 docker-compose up -d
 ```
+(http://localhost:8083)
 
-or for test on dev server:
+or for test on dev server run both:
 
 back-end:
 ```
